@@ -3,7 +3,7 @@ import Header from "./Header";
 
 export default function Main01() {
     return(
-        <div>
+        <div style={{marginLeft:"100px"}}>
             <Header />
             <DayList />
         </div>
